@@ -6,7 +6,7 @@ import logging
 
 #TODO add logging
 
-AUTH_HEADERS = {'Authorization': 'Token 3dfae7c6fd3edc20043e9300f1c502f1d1a1d32b'}
+AUTH_HEADERS = {'Authorization': 'Token XXXXXXXX'}
 
 
 def _seven_park_get(path='', params=None, json=None):
