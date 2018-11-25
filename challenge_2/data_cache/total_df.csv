@@ -1,0 +1,1351 @@
+company,country_name,date,entity_name,entity_type,gender_name,metric_id,metric_name,msa_name,us_region_name,us_state_name,value,world_region_name
+"Netflix, Inc.",Argentina,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5119802,N/A
+"Netflix, Inc.",Argentina,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2977785,N/A
+"Netflix, Inc.",Argentina,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1790061,N/A
+"Netflix, Inc.",Argentina,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2397984,N/A
+"Netflix, Inc.",Argentina,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.91416913,N/A
+"Netflix, Inc.",Argentina,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7544947,N/A
+"Netflix, Inc.",Argentina,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0145615,N/A
+"Netflix, Inc.",Argentina,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.72418135,N/A
+"Netflix, Inc.",Argentina,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.95259804,N/A
+"Netflix, Inc.",Argentina,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.96613926,N/A
+"Netflix, Inc.",Argentina,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5888126,N/A
+"Netflix, Inc.",Argentina,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55939835,N/A
+"Netflix, Inc.",Argentina,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.515326,N/A
+"Netflix, Inc.",Argentina,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6120357,N/A
+"Netflix, Inc.",Argentina,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6550566,N/A
+"Netflix, Inc.",Argentina,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7726833,N/A
+"Netflix, Inc.",Argentina,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.780682,N/A
+"Netflix, Inc.",Argentina,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6360234,N/A
+"Netflix, Inc.",Argentina,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.39889207,N/A
+"Netflix, Inc.",Argentina,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7400621,N/A
+"Netflix, Inc.",Argentina,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5641294,N/A
+"Netflix, Inc.",Argentina,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7150472,N/A
+"Netflix, Inc.",Argentina,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.65962833,N/A
+"Netflix, Inc.",Argentina,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6113886,N/A
+"Netflix, Inc.",Argentina,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.38168213,N/A
+"Netflix, Inc.",Argentina,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.638472,N/A
+"Netflix, Inc.",Argentina,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6000891,N/A
+"Netflix, Inc.",Argentina,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61754787,N/A
+"Netflix, Inc.",Argentina,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.97445774,N/A
+"Netflix, Inc.",Argentina,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.73998934,N/A
+"Netflix, Inc.",Australia,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.623567,N/A
+"Netflix, Inc.",Australia,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7980026,N/A
+"Netflix, Inc.",Australia,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.301037,N/A
+"Netflix, Inc.",Australia,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1539705,N/A
+"Netflix, Inc.",Australia,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.236801,N/A
+"Netflix, Inc.",Australia,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.78260124,N/A
+"Netflix, Inc.",Australia,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0603604,N/A
+"Netflix, Inc.",Australia,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3692003,N/A
+"Netflix, Inc.",Australia,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5616909,N/A
+"Netflix, Inc.",Australia,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3931134,N/A
+"Netflix, Inc.",Australia,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77674127,N/A
+"Netflix, Inc.",Australia,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1727453,N/A
+"Netflix, Inc.",Australia,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.344841,N/A
+"Netflix, Inc.",Australia,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8331667,N/A
+"Netflix, Inc.",Australia,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6445079,N/A
+"Netflix, Inc.",Australia,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8964849,N/A
+"Netflix, Inc.",Australia,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3273991,N/A
+"Netflix, Inc.",Australia,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4115876,N/A
+"Netflix, Inc.",Australia,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6600921,N/A
+"Netflix, Inc.",Australia,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.88296676,N/A
+"Netflix, Inc.",Australia,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2830383,N/A
+"Netflix, Inc.",Australia,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.723494,N/A
+"Netflix, Inc.",Australia,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6270605,N/A
+"Netflix, Inc.",Australia,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4632362,N/A
+"Netflix, Inc.",Australia,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1943151,N/A
+"Netflix, Inc.",Australia,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9363442,N/A
+"Netflix, Inc.",Australia,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.128923,N/A
+"Netflix, Inc.",Australia,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.93383366,N/A
+"Netflix, Inc.",Australia,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.001296,N/A
+"Netflix, Inc.",Australia,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3466321,N/A
+"Netflix, Inc.",Austria,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8230116,N/A
+"Netflix, Inc.",Austria,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.49008796,N/A
+"Netflix, Inc.",Austria,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3838596,N/A
+"Netflix, Inc.",Austria,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Austria,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7332095,N/A
+"Netflix, Inc.",Austria,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4958104,N/A
+"Netflix, Inc.",Austria,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.50295484,N/A
+"Netflix, Inc.",Austria,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.28689465,N/A
+"Netflix, Inc.",Austria,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7894529,N/A
+"Netflix, Inc.",Austria,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9509545,N/A
+"Netflix, Inc.",Austria,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.725058,N/A
+"Netflix, Inc.",Austria,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.48861527,N/A
+"Netflix, Inc.",Austria,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4902201,N/A
+"Netflix, Inc.",Austria,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4701918,N/A
+"Netflix, Inc.",Austria,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.556514,N/A
+"Netflix, Inc.",Austria,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.25802457,N/A
+"Netflix, Inc.",Austria,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9506381,N/A
+"Netflix, Inc.",Austria,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.47572607,N/A
+"Netflix, Inc.",Austria,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1924351,N/A
+"Netflix, Inc.",Austria,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.48975194,N/A
+"Netflix, Inc.",Austria,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.50998294,N/A
+"Netflix, Inc.",Austria,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Austria,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.48929664,N/A
+"Netflix, Inc.",Austria,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5932266,N/A
+"Netflix, Inc.",Austria,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Austria,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9153737,N/A
+"Netflix, Inc.",Austria,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.70136064,N/A
+"Netflix, Inc.",Austria,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7249003,N/A
+"Netflix, Inc.",Austria,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0595746,N/A
+"Netflix, Inc.",Austria,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1956288,N/A
+"Netflix, Inc.",Belgium,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0767276,N/A
+"Netflix, Inc.",Belgium,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9410335,N/A
+"Netflix, Inc.",Belgium,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.285406,N/A
+"Netflix, Inc.",Belgium,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8270311,N/A
+"Netflix, Inc.",Belgium,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2904415,N/A
+"Netflix, Inc.",Belgium,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.84254676,N/A
+"Netflix, Inc.",Belgium,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.88460785,N/A
+"Netflix, Inc.",Belgium,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6521314,N/A
+"Netflix, Inc.",Belgium,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9279786,N/A
+"Netflix, Inc.",Belgium,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7478663,N/A
+"Netflix, Inc.",Belgium,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.94706833,N/A
+"Netflix, Inc.",Belgium,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.74206686,N/A
+"Netflix, Inc.",Belgium,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3777148,N/A
+"Netflix, Inc.",Belgium,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.89471227,N/A
+"Netflix, Inc.",Belgium,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0775398,N/A
+"Netflix, Inc.",Belgium,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.30470774,N/A
+"Netflix, Inc.",Belgium,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.73953557,N/A
+"Netflix, Inc.",Belgium,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.64675283,N/A
+"Netflix, Inc.",Belgium,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.45870298,N/A
+"Netflix, Inc.",Belgium,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.46942627,N/A
+"Netflix, Inc.",Belgium,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2459148,N/A
+"Netflix, Inc.",Belgium,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2352288,N/A
+"Netflix, Inc.",Belgium,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.215976,N/A
+"Netflix, Inc.",Belgium,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0815586,N/A
+"Netflix, Inc.",Belgium,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8002205,N/A
+"Netflix, Inc.",Belgium,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9753762,N/A
+"Netflix, Inc.",Belgium,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.81378734,N/A
+"Netflix, Inc.",Belgium,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9236169,N/A
+"Netflix, Inc.",Belgium,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9143182,N/A
+"Netflix, Inc.",Belgium,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7529695,N/A
+"Netflix, Inc.",Brazil,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7787652,N/A
+"Netflix, Inc.",Brazil,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7672042,N/A
+"Netflix, Inc.",Brazil,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3713286,N/A
+"Netflix, Inc.",Brazil,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5442061,N/A
+"Netflix, Inc.",Brazil,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2878497,N/A
+"Netflix, Inc.",Brazil,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2982785,N/A
+"Netflix, Inc.",Brazil,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5674028,N/A
+"Netflix, Inc.",Brazil,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5072303,N/A
+"Netflix, Inc.",Brazil,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7141383,N/A
+"Netflix, Inc.",Brazil,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4874595,N/A
+"Netflix, Inc.",Brazil,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4820522,N/A
+"Netflix, Inc.",Brazil,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4114691,N/A
+"Netflix, Inc.",Brazil,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4211118,N/A
+"Netflix, Inc.",Brazil,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2852756,N/A
+"Netflix, Inc.",Brazil,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6113296,N/A
+"Netflix, Inc.",Brazil,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7586201,N/A
+"Netflix, Inc.",Brazil,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4710219,N/A
+"Netflix, Inc.",Brazil,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3164417,N/A
+"Netflix, Inc.",Brazil,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1263549,N/A
+"Netflix, Inc.",Brazil,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1251172,N/A
+"Netflix, Inc.",Brazil,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1779876,N/A
+"Netflix, Inc.",Brazil,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4047859,N/A
+"Netflix, Inc.",Brazil,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4878902,N/A
+"Netflix, Inc.",Brazil,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2511426,N/A
+"Netflix, Inc.",Brazil,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1034415,N/A
+"Netflix, Inc.",Brazil,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.018989,N/A
+"Netflix, Inc.",Brazil,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1556511,N/A
+"Netflix, Inc.",Brazil,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1959631,N/A
+"Netflix, Inc.",Brazil,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5736985,N/A
+"Netflix, Inc.",Brazil,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2353637,N/A
+"Netflix, Inc.",Canada,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.879644,N/A
+"Netflix, Inc.",Canada,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6899736,N/A
+"Netflix, Inc.",Canada,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4279255,N/A
+"Netflix, Inc.",Canada,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.99385107,N/A
+"Netflix, Inc.",Canada,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5158916,N/A
+"Netflix, Inc.",Canada,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77724236,N/A
+"Netflix, Inc.",Canada,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7962453,N/A
+"Netflix, Inc.",Canada,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7375465,N/A
+"Netflix, Inc.",Canada,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7431303,N/A
+"Netflix, Inc.",Canada,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7706502,N/A
+"Netflix, Inc.",Canada,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55346,N/A
+"Netflix, Inc.",Canada,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55840003,N/A
+"Netflix, Inc.",Canada,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8648948,N/A
+"Netflix, Inc.",Canada,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6220812,N/A
+"Netflix, Inc.",Canada,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1373414,N/A
+"Netflix, Inc.",Canada,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.92811507,N/A
+"Netflix, Inc.",Canada,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.94925785,N/A
+"Netflix, Inc.",Canada,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.642701,N/A
+"Netflix, Inc.",Canada,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.690417,N/A
+"Netflix, Inc.",Canada,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7374311,N/A
+"Netflix, Inc.",Canada,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.74791354,N/A
+"Netflix, Inc.",Canada,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.64599806,N/A
+"Netflix, Inc.",Canada,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9764862,N/A
+"Netflix, Inc.",Canada,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7373224,N/A
+"Netflix, Inc.",Canada,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7880874,N/A
+"Netflix, Inc.",Canada,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61884,N/A
+"Netflix, Inc.",Canada,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3783134,N/A
+"Netflix, Inc.",Canada,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7707657,N/A
+"Netflix, Inc.",Canada,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1808271,N/A
+"Netflix, Inc.",Canada,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5726471,N/A
+"Netflix, Inc.",Chile,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.63099945,N/A
+"Netflix, Inc.",Chile,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.559369,N/A
+"Netflix, Inc.",Chile,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.58242136,N/A
+"Netflix, Inc.",Chile,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.2936754,N/A
+"Netflix, Inc.",Chile,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.64914757,N/A
+"Netflix, Inc.",Chile,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.66228354,N/A
+"Netflix, Inc.",Chile,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5069548,N/A
+"Netflix, Inc.",Chile,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2389526,N/A
+"Netflix, Inc.",Chile,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6594186,N/A
+"Netflix, Inc.",Chile,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77470875,N/A
+"Netflix, Inc.",Chile,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.35936752,N/A
+"Netflix, Inc.",Chile,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7999163,N/A
+"Netflix, Inc.",Chile,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.97439295,N/A
+"Netflix, Inc.",Chile,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.34782368,N/A
+"Netflix, Inc.",Chile,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2090212,N/A
+"Netflix, Inc.",Chile,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8516165,N/A
+"Netflix, Inc.",Chile,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.75107294,N/A
+"Netflix, Inc.",Chile,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.667245,N/A
+"Netflix, Inc.",Chile,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51778597,N/A
+"Netflix, Inc.",Chile,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0274551,N/A
+"Netflix, Inc.",Chile,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.141577,N/A
+"Netflix, Inc.",Chile,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0069395,N/A
+"Netflix, Inc.",Chile,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8167199,N/A
+"Netflix, Inc.",Chile,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5433897,N/A
+"Netflix, Inc.",Chile,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61896163,N/A
+"Netflix, Inc.",Chile,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.715406,N/A
+"Netflix, Inc.",Chile,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55590147,N/A
+"Netflix, Inc.",Chile,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.90790445,N/A
+"Netflix, Inc.",Chile,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0634527,N/A
+"Netflix, Inc.",Chile,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4146672,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7633588,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5440439,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.34821367,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6992518,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.35104963,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0598834,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7356728,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.563355,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.70054996,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1169994,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.35356927,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7148474,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7378712,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7742635,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.76443833,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.35394472,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3598805,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7330841,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7566586,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8079176,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6347883,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1268029,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3378822,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7307626,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.37791467,N/A
+"Netflix, Inc.","China, Hong Kong Special Administrative Region",2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3986605,N/A
+"Netflix, Inc.",Colombia,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9955915,N/A
+"Netflix, Inc.",Colombia,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4633367,N/A
+"Netflix, Inc.",Colombia,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0345196,N/A
+"Netflix, Inc.",Colombia,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.148358,N/A
+"Netflix, Inc.",Colombia,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0224376,N/A
+"Netflix, Inc.",Colombia,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.036072,N/A
+"Netflix, Inc.",Colombia,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.801229,N/A
+"Netflix, Inc.",Colombia,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.88807076,N/A
+"Netflix, Inc.",Colombia,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4714276,N/A
+"Netflix, Inc.",Colombia,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.74088544,N/A
+"Netflix, Inc.",Colombia,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8315151,N/A
+"Netflix, Inc.",Colombia,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.70967525,N/A
+"Netflix, Inc.",Colombia,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6112262,N/A
+"Netflix, Inc.",Colombia,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9556744,N/A
+"Netflix, Inc.",Colombia,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3951867,N/A
+"Netflix, Inc.",Colombia,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1059704,N/A
+"Netflix, Inc.",Colombia,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.71946883,N/A
+"Netflix, Inc.",Colombia,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1113356,N/A
+"Netflix, Inc.",Colombia,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7492218,N/A
+"Netflix, Inc.",Colombia,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1400735,N/A
+"Netflix, Inc.",Colombia,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.96630114,N/A
+"Netflix, Inc.",Colombia,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2819028,N/A
+"Netflix, Inc.",Colombia,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.95945615,N/A
+"Netflix, Inc.",Colombia,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2686222,N/A
+"Netflix, Inc.",Colombia,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.75283724,N/A
+"Netflix, Inc.",Colombia,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9590486,N/A
+"Netflix, Inc.",Colombia,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9768148,N/A
+"Netflix, Inc.",Colombia,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.65601516,N/A
+"Netflix, Inc.",Colombia,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9834962,N/A
+"Netflix, Inc.",Colombia,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4783902,N/A
+"Netflix, Inc.",Czechia,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.12445783,N/A
+"Netflix, Inc.",Czechia,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5067796,N/A
+"Netflix, Inc.",Czechia,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.370245,N/A
+"Netflix, Inc.",Czechia,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5442147,N/A
+"Netflix, Inc.",Czechia,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.16727257,N/A
+"Netflix, Inc.",Czechia,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4528319,N/A
+"Netflix, Inc.",Czechia,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.35480914,N/A
+"Netflix, Inc.",Czechia,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.27283642,N/A
+"Netflix, Inc.",Czechia,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.41245374,N/A
+"Netflix, Inc.",Czechia,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3813488,N/A
+"Netflix, Inc.",Czechia,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.33095595,N/A
+"Netflix, Inc.",Czechia,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.44681254,N/A
+"Netflix, Inc.",Czechia,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.33292273,N/A
+"Netflix, Inc.",Czechia,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.11436021,N/A
+"Netflix, Inc.",Czechia,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4034644,N/A
+"Netflix, Inc.",Czechia,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.41228613,N/A
+"Netflix, Inc.",Czechia,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.1089378,N/A
+"Netflix, Inc.",Czechia,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.38642862,N/A
+"Netflix, Inc.",Czechia,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.33233815,N/A
+"Netflix, Inc.",Czechia,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.22605129,N/A
+"Netflix, Inc.",Czechia,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.17942262,N/A
+"Netflix, Inc.",Czechia,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5232828,N/A
+"Netflix, Inc.",Czechia,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4435008,N/A
+"Netflix, Inc.",Czechia,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.42414218,N/A
+"Netflix, Inc.",Czechia,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.62920785,N/A
+"Netflix, Inc.",Czechia,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.21284634,N/A
+"Netflix, Inc.",Czechia,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5097417,N/A
+"Netflix, Inc.",Czechia,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4416153,N/A
+"Netflix, Inc.",Czechia,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Czechia,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3319245,N/A
+"Netflix, Inc.",Denmark,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3396678,N/A
+"Netflix, Inc.",Denmark,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5478888,N/A
+"Netflix, Inc.",Denmark,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6896737,N/A
+"Netflix, Inc.",Denmark,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0545853,N/A
+"Netflix, Inc.",Denmark,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0616612,N/A
+"Netflix, Inc.",Denmark,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7231723,N/A
+"Netflix, Inc.",Denmark,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3440259,N/A
+"Netflix, Inc.",Denmark,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3029315,N/A
+"Netflix, Inc.",Denmark,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5478888,N/A
+"Netflix, Inc.",Denmark,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.9217188,N/A
+"Netflix, Inc.",Denmark,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2446325,N/A
+"Netflix, Inc.",Denmark,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.477479,N/A
+"Netflix, Inc.",Denmark,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6462453,N/A
+"Netflix, Inc.",Denmark,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1365186,N/A
+"Netflix, Inc.",Denmark,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3740437,N/A
+"Netflix, Inc.",Denmark,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1684427,N/A
+"Netflix, Inc.",Denmark,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5319126,N/A
+"Netflix, Inc.",Denmark,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4890132,N/A
+"Netflix, Inc.",Denmark,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0640562,N/A
+"Netflix, Inc.",Denmark,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5570543,N/A
+"Netflix, Inc.",Denmark,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.342432,N/A
+"Netflix, Inc.",Denmark,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5154772,N/A
+"Netflix, Inc.",Denmark,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3409884,N/A
+"Netflix, Inc.",Denmark,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8848168,N/A
+"Netflix, Inc.",Denmark,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.27649,N/A
+"Netflix, Inc.",Denmark,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8230064,N/A
+"Netflix, Inc.",Denmark,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61611766,N/A
+"Netflix, Inc.",Denmark,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3868937,N/A
+"Netflix, Inc.",Denmark,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.023965,N/A
+"Netflix, Inc.",Denmark,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6816242,N/A
+"Netflix, Inc.",Finland,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.385171,N/A
+"Netflix, Inc.",Finland,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8401804,N/A
+"Netflix, Inc.",Finland,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.9893997,N/A
+"Netflix, Inc.",Finland,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.466628,N/A
+"Netflix, Inc.",Finland,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6152717,N/A
+"Netflix, Inc.",Finland,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0992024,N/A
+"Netflix, Inc.",Finland,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3454726,N/A
+"Netflix, Inc.",Finland,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6547263,N/A
+"Netflix, Inc.",Finland,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.658119,N/A
+"Netflix, Inc.",Finland,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6028862,N/A
+"Netflix, Inc.",Finland,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.3287504,N/A
+"Netflix, Inc.",Finland,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7629933,N/A
+"Netflix, Inc.",Finland,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.236536,N/A
+"Netflix, Inc.",Finland,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9861883,N/A
+"Netflix, Inc.",Finland,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6727443,N/A
+"Netflix, Inc.",Finland,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.3969488,N/A
+"Netflix, Inc.",Finland,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.4289184,N/A
+"Netflix, Inc.",Finland,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3188553,N/A
+"Netflix, Inc.",Finland,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.224694,N/A
+"Netflix, Inc.",Finland,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.107323,N/A
+"Netflix, Inc.",Finland,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8053114,N/A
+"Netflix, Inc.",Finland,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7023833,N/A
+"Netflix, Inc.",Finland,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.4129694,N/A
+"Netflix, Inc.",Finland,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0452588,N/A
+"Netflix, Inc.",Finland,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5926102,N/A
+"Netflix, Inc.",Finland,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.9600394,N/A
+"Netflix, Inc.",Finland,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.469961,N/A
+"Netflix, Inc.",Finland,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9815865,N/A
+"Netflix, Inc.",Finland,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8390343,N/A
+"Netflix, Inc.",Finland,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2176883,N/A
+"Netflix, Inc.",France,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.97134316,N/A
+"Netflix, Inc.",France,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2435366,N/A
+"Netflix, Inc.",France,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9187667,N/A
+"Netflix, Inc.",France,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0030442,N/A
+"Netflix, Inc.",France,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8661975,N/A
+"Netflix, Inc.",France,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8438082,N/A
+"Netflix, Inc.",France,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.73063606,N/A
+"Netflix, Inc.",France,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0204494,N/A
+"Netflix, Inc.",France,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2542877,N/A
+"Netflix, Inc.",France,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8108438,N/A
+"Netflix, Inc.",France,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.959653,N/A
+"Netflix, Inc.",France,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6495641,N/A
+"Netflix, Inc.",France,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8198454,N/A
+"Netflix, Inc.",France,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.69968206,N/A
+"Netflix, Inc.",France,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1828971,N/A
+"Netflix, Inc.",France,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8809095,N/A
+"Netflix, Inc.",France,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.82858604,N/A
+"Netflix, Inc.",France,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7842173,N/A
+"Netflix, Inc.",France,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8300798,N/A
+"Netflix, Inc.",France,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7948257,N/A
+"Netflix, Inc.",France,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.609421,N/A
+"Netflix, Inc.",France,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9368416,N/A
+"Netflix, Inc.",France,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.154649,N/A
+"Netflix, Inc.",France,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.82213694,N/A
+"Netflix, Inc.",France,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.862425,N/A
+"Netflix, Inc.",France,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.88888055,N/A
+"Netflix, Inc.",France,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6472986,N/A
+"Netflix, Inc.",France,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.57343817,N/A
+"Netflix, Inc.",France,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6575396,N/A
+"Netflix, Inc.",France,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1770409,N/A
+"Netflix, Inc.",Germany,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.263832,N/A
+"Netflix, Inc.",Germany,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.518526,N/A
+"Netflix, Inc.",Germany,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2045349,N/A
+"Netflix, Inc.",Germany,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.907312,N/A
+"Netflix, Inc.",Germany,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.84592474,N/A
+"Netflix, Inc.",Germany,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9925041,N/A
+"Netflix, Inc.",Germany,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.99345595,N/A
+"Netflix, Inc.",Germany,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.94346094,N/A
+"Netflix, Inc.",Germany,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3189303,N/A
+"Netflix, Inc.",Germany,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3128464,N/A
+"Netflix, Inc.",Germany,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2100767,N/A
+"Netflix, Inc.",Germany,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8906239,N/A
+"Netflix, Inc.",Germany,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9373689,N/A
+"Netflix, Inc.",Germany,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8491935,N/A
+"Netflix, Inc.",Germany,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0952841,N/A
+"Netflix, Inc.",Germany,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7525099,N/A
+"Netflix, Inc.",Germany,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9325703,N/A
+"Netflix, Inc.",Germany,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5179341,N/A
+"Netflix, Inc.",Germany,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8666906,N/A
+"Netflix, Inc.",Germany,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2114605,N/A
+"Netflix, Inc.",Germany,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8589524,N/A
+"Netflix, Inc.",Germany,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9344947,N/A
+"Netflix, Inc.",Germany,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1687534,N/A
+"Netflix, Inc.",Germany,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6973618,N/A
+"Netflix, Inc.",Germany,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9800945,N/A
+"Netflix, Inc.",Germany,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8831687,N/A
+"Netflix, Inc.",Germany,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9059058,N/A
+"Netflix, Inc.",Germany,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8904147,N/A
+"Netflix, Inc.",Germany,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1517831,N/A
+"Netflix, Inc.",Germany,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.253865,N/A
+"Netflix, Inc.",Iceland,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.053435,N/A
+"Netflix, Inc.",Iceland,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8506272,N/A
+"Netflix, Inc.",Iceland,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6336582,N/A
+"Netflix, Inc.",Iceland,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.69179,N/A
+"Netflix, Inc.",Iceland,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8620493,N/A
+"Netflix, Inc.",Iceland,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6752274,N/A
+"Netflix, Inc.",Iceland,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,6.199628,N/A
+"Netflix, Inc.",Iceland,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6518166,N/A
+"Netflix, Inc.",Iceland,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.522068,N/A
+"Netflix, Inc.",Iceland,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Iceland,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,5.1733055,N/A
+"Netflix, Inc.",Iceland,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8628685,N/A
+"Netflix, Inc.",Iceland,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",India,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.403664,N/A
+"Netflix, Inc.",India,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0104241,N/A
+"Netflix, Inc.",India,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2915558,N/A
+"Netflix, Inc.",India,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1135949,N/A
+"Netflix, Inc.",India,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3352026,N/A
+"Netflix, Inc.",India,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0814723,N/A
+"Netflix, Inc.",India,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.75430584,N/A
+"Netflix, Inc.",India,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1943731,N/A
+"Netflix, Inc.",India,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8454325,N/A
+"Netflix, Inc.",India,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.95992523,N/A
+"Netflix, Inc.",India,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.75481194,N/A
+"Netflix, Inc.",India,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9017481,N/A
+"Netflix, Inc.",India,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3997042,N/A
+"Netflix, Inc.",India,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1118333,N/A
+"Netflix, Inc.",India,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0600332,N/A
+"Netflix, Inc.",India,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.102585,N/A
+"Netflix, Inc.",India,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6904796,N/A
+"Netflix, Inc.",India,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9663419,N/A
+"Netflix, Inc.",India,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9759037,N/A
+"Netflix, Inc.",India,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1947737,N/A
+"Netflix, Inc.",India,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5106143,N/A
+"Netflix, Inc.",India,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0767498,N/A
+"Netflix, Inc.",India,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.570508,N/A
+"Netflix, Inc.",India,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.150645,N/A
+"Netflix, Inc.",India,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1577724,N/A
+"Netflix, Inc.",India,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1441975,N/A
+"Netflix, Inc.",India,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.125329,N/A
+"Netflix, Inc.",India,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0382946,N/A
+"Netflix, Inc.",India,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5343953,N/A
+"Netflix, Inc.",India,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5406505,N/A
+"Netflix, Inc.",Indonesia,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.09145951,N/A
+"Netflix, Inc.",Indonesia,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.1850738,N/A
+"Netflix, Inc.",Indonesia,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.09733213,N/A
+"Netflix, Inc.",Indonesia,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06545702,N/A
+"Netflix, Inc.",Indonesia,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06588831,N/A
+"Netflix, Inc.",Indonesia,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06886625,N/A
+"Netflix, Inc.",Indonesia,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.1790831,N/A
+"Netflix, Inc.",Indonesia,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.10417752,N/A
+"Netflix, Inc.",Indonesia,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06398935,N/A
+"Netflix, Inc.",Indonesia,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06273998,N/A
+"Netflix, Inc.",Indonesia,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.12919396,N/A
+"Netflix, Inc.",Indonesia,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.067949094,N/A
+"Netflix, Inc.",Indonesia,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.08868629,N/A
+"Netflix, Inc.",Indonesia,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.2058757,N/A
+"Netflix, Inc.",Indonesia,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.12882198,N/A
+"Netflix, Inc.",Indonesia,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06255356,N/A
+"Netflix, Inc.",Indonesia,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.16809736,N/A
+"Netflix, Inc.",Indonesia,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Indonesia,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.07497657,N/A
+"Netflix, Inc.",Indonesia,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Ireland,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9434457,N/A
+"Netflix, Inc.",Ireland,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.92605454,N/A
+"Netflix, Inc.",Ireland,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.617011,N/A
+"Netflix, Inc.",Ireland,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7989773,N/A
+"Netflix, Inc.",Ireland,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2131996,N/A
+"Netflix, Inc.",Ireland,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Ireland,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5575447,N/A
+"Netflix, Inc.",Ireland,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8781989,N/A
+"Netflix, Inc.",Ireland,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8250673,N/A
+"Netflix, Inc.",Ireland,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1816607,N/A
+"Netflix, Inc.",Ireland,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9874394,N/A
+"Netflix, Inc.",Ireland,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6140096,N/A
+"Netflix, Inc.",Ireland,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8152617,N/A
+"Netflix, Inc.",Ireland,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.42142525,N/A
+"Netflix, Inc.",Ireland,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Ireland,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7914726,N/A
+"Netflix, Inc.",Ireland,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1630161,N/A
+"Netflix, Inc.",Ireland,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Ireland,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.589004,N/A
+"Netflix, Inc.",Ireland,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6107599,N/A
+"Netflix, Inc.",Ireland,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.42416015,N/A
+"Netflix, Inc.",Ireland,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4006256,N/A
+"Netflix, Inc.",Ireland,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.45063314,N/A
+"Netflix, Inc.",Ireland,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2055455,N/A
+"Netflix, Inc.",Ireland,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.294455,N/A
+"Netflix, Inc.",Ireland,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.912631,N/A
+"Netflix, Inc.",Ireland,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5621339,N/A
+"Netflix, Inc.",Ireland,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6550812,N/A
+"Netflix, Inc.",Ireland,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3814698,N/A
+"Netflix, Inc.",Ireland,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1438065,N/A
+"Netflix, Inc.",Israel,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5125847,N/A
+"Netflix, Inc.",Israel,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8118421,N/A
+"Netflix, Inc.",Israel,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.54883236,N/A
+"Netflix, Inc.",Israel,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8329631,N/A
+"Netflix, Inc.",Israel,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5623823,N/A
+"Netflix, Inc.",Israel,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.57278687,N/A
+"Netflix, Inc.",Israel,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5568079,N/A
+"Netflix, Inc.",Israel,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9430052,N/A
+"Netflix, Inc.",Israel,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6527841,N/A
+"Netflix, Inc.",Israel,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.76748914,N/A
+"Netflix, Inc.",Israel,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5643088,N/A
+"Netflix, Inc.",Israel,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0973636,N/A
+"Netflix, Inc.",Israel,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2618678,N/A
+"Netflix, Inc.",Israel,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61349696,N/A
+"Netflix, Inc.",Israel,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5509166,N/A
+"Netflix, Inc.",Israel,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9771218,N/A
+"Netflix, Inc.",Israel,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.438435,N/A
+"Netflix, Inc.",Israel,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.94321823,N/A
+"Netflix, Inc.",Israel,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3620267,N/A
+"Netflix, Inc.",Israel,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.719937,N/A
+"Netflix, Inc.",Israel,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6298419,N/A
+"Netflix, Inc.",Israel,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9669621,N/A
+"Netflix, Inc.",Israel,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2745348,N/A
+"Netflix, Inc.",Israel,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.9686315,N/A
+"Netflix, Inc.",Israel,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55936235,N/A
+"Netflix, Inc.",Israel,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3806815,N/A
+"Netflix, Inc.",Israel,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55875283,N/A
+"Netflix, Inc.",Israel,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.30032736,N/A
+"Netflix, Inc.",Israel,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7759786,N/A
+"Netflix, Inc.",Israel,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5799791,N/A
+"Netflix, Inc.",Italy,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2048898,N/A
+"Netflix, Inc.",Italy,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6960835,N/A
+"Netflix, Inc.",Italy,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1208893,N/A
+"Netflix, Inc.",Italy,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.388191,N/A
+"Netflix, Inc.",Italy,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.75482035,N/A
+"Netflix, Inc.",Italy,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.81430936,N/A
+"Netflix, Inc.",Italy,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0129894,N/A
+"Netflix, Inc.",Italy,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0739101,N/A
+"Netflix, Inc.",Italy,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3469173,N/A
+"Netflix, Inc.",Italy,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.400481,N/A
+"Netflix, Inc.",Italy,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0041904,N/A
+"Netflix, Inc.",Italy,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.042959,N/A
+"Netflix, Inc.",Italy,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2021234,N/A
+"Netflix, Inc.",Italy,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.88255477,N/A
+"Netflix, Inc.",Italy,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3719633,N/A
+"Netflix, Inc.",Italy,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5936481,N/A
+"Netflix, Inc.",Italy,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1666508,N/A
+"Netflix, Inc.",Italy,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0096823,N/A
+"Netflix, Inc.",Italy,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1745675,N/A
+"Netflix, Inc.",Italy,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8400378,N/A
+"Netflix, Inc.",Italy,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2986573,N/A
+"Netflix, Inc.",Italy,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3603868,N/A
+"Netflix, Inc.",Italy,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5147512,N/A
+"Netflix, Inc.",Italy,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1878836,N/A
+"Netflix, Inc.",Italy,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3647062,N/A
+"Netflix, Inc.",Italy,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7872576,N/A
+"Netflix, Inc.",Italy,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.862096,N/A
+"Netflix, Inc.",Italy,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2019362,N/A
+"Netflix, Inc.",Italy,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4645387,N/A
+"Netflix, Inc.",Italy,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6154654,N/A
+"Netflix, Inc.",Japan,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7465601,N/A
+"Netflix, Inc.",Japan,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0238733,N/A
+"Netflix, Inc.",Japan,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9531552,N/A
+"Netflix, Inc.",Japan,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5560282,N/A
+"Netflix, Inc.",Japan,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8027753,N/A
+"Netflix, Inc.",Japan,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.41300616,N/A
+"Netflix, Inc.",Japan,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.23111367,N/A
+"Netflix, Inc.",Japan,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8941398,N/A
+"Netflix, Inc.",Japan,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9798045,N/A
+"Netflix, Inc.",Japan,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.79034424,N/A
+"Netflix, Inc.",Japan,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.62750643,N/A
+"Netflix, Inc.",Japan,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.62606,N/A
+"Netflix, Inc.",Japan,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.62818736,N/A
+"Netflix, Inc.",Japan,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.86054075,N/A
+"Netflix, Inc.",Japan,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0206716,N/A
+"Netflix, Inc.",Japan,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.93057305,N/A
+"Netflix, Inc.",Japan,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.80465317,N/A
+"Netflix, Inc.",Japan,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.68104815,N/A
+"Netflix, Inc.",Japan,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.39976698,N/A
+"Netflix, Inc.",Japan,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6250568,N/A
+"Netflix, Inc.",Japan,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.74635005,N/A
+"Netflix, Inc.",Japan,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.209358,N/A
+"Netflix, Inc.",Japan,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9332421,N/A
+"Netflix, Inc.",Japan,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1991777,N/A
+"Netflix, Inc.",Japan,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7149575,N/A
+"Netflix, Inc.",Japan,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.48147652,N/A
+"Netflix, Inc.",Japan,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.81378,N/A
+"Netflix, Inc.",Japan,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5511646,N/A
+"Netflix, Inc.",Japan,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1145228,N/A
+"Netflix, Inc.",Japan,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.485096,N/A
+"Netflix, Inc.",Luxembourg,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.660282,N/A
+"Netflix, Inc.",Luxembourg,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,5.265929,N/A
+"Netflix, Inc.",Luxembourg,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.779322,N/A
+"Netflix, Inc.",Luxembourg,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.4956326,N/A
+"Netflix, Inc.",Luxembourg,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,5.236973,N/A
+"Netflix, Inc.",Luxembourg,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.531005,N/A
+"Netflix, Inc.",Luxembourg,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Luxembourg,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6191723,N/A
+"Netflix, Inc.",Luxembourg,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8801844,N/A
+"Netflix, Inc.",Luxembourg,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.596728,N/A
+"Netflix, Inc.",Mexico,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8780974,N/A
+"Netflix, Inc.",Mexico,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8878657,N/A
+"Netflix, Inc.",Mexico,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.797814,N/A
+"Netflix, Inc.",Mexico,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8016414,N/A
+"Netflix, Inc.",Mexico,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5002382,N/A
+"Netflix, Inc.",Mexico,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.52724886,N/A
+"Netflix, Inc.",Mexico,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.70968586,N/A
+"Netflix, Inc.",Mexico,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7404686,N/A
+"Netflix, Inc.",Mexico,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8524207,N/A
+"Netflix, Inc.",Mexico,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7521591,N/A
+"Netflix, Inc.",Mexico,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.49873582,N/A
+"Netflix, Inc.",Mexico,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.48052666,N/A
+"Netflix, Inc.",Mexico,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.488161,N/A
+"Netflix, Inc.",Mexico,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6851807,N/A
+"Netflix, Inc.",Mexico,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8670745,N/A
+"Netflix, Inc.",Mexico,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0140215,N/A
+"Netflix, Inc.",Mexico,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5434512,N/A
+"Netflix, Inc.",Mexico,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.43602148,N/A
+"Netflix, Inc.",Mexico,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.59053695,N/A
+"Netflix, Inc.",Mexico,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.39786127,N/A
+"Netflix, Inc.",Mexico,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7150073,N/A
+"Netflix, Inc.",Mexico,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7183144,N/A
+"Netflix, Inc.",Mexico,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.705083,N/A
+"Netflix, Inc.",Mexico,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.781777,N/A
+"Netflix, Inc.",Mexico,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5298143,N/A
+"Netflix, Inc.",Mexico,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61593604,N/A
+"Netflix, Inc.",Mexico,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4442748,N/A
+"Netflix, Inc.",Mexico,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7618032,N/A
+"Netflix, Inc.",Mexico,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7580431,N/A
+"Netflix, Inc.",Mexico,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.85016567,N/A
+"Netflix, Inc.",Netherlands,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.69847035,N/A
+"Netflix, Inc.",Netherlands,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5486065,N/A
+"Netflix, Inc.",Netherlands,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.67291516,N/A
+"Netflix, Inc.",Netherlands,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.680669,N/A
+"Netflix, Inc.",Netherlands,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5800632,N/A
+"Netflix, Inc.",Netherlands,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.29167557,N/A
+"Netflix, Inc.",Netherlands,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.30198404,N/A
+"Netflix, Inc.",Netherlands,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.67942476,N/A
+"Netflix, Inc.",Netherlands,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.64094347,N/A
+"Netflix, Inc.",Netherlands,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.85564345,N/A
+"Netflix, Inc.",Netherlands,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.19267637,N/A
+"Netflix, Inc.",Netherlands,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1465151,N/A
+"Netflix, Inc.",Netherlands,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6908599,N/A
+"Netflix, Inc.",Netherlands,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0243907,N/A
+"Netflix, Inc.",Netherlands,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6845486,N/A
+"Netflix, Inc.",Netherlands,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.43038055,N/A
+"Netflix, Inc.",Netherlands,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5828638,N/A
+"Netflix, Inc.",Netherlands,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.38981795,N/A
+"Netflix, Inc.",Netherlands,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5840553,N/A
+"Netflix, Inc.",Netherlands,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.69321346,N/A
+"Netflix, Inc.",Netherlands,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.39854133,N/A
+"Netflix, Inc.",Netherlands,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.55083674,N/A
+"Netflix, Inc.",Netherlands,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1185455,N/A
+"Netflix, Inc.",Netherlands,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7585311,N/A
+"Netflix, Inc.",Netherlands,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.65473795,N/A
+"Netflix, Inc.",Netherlands,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.368633,N/A
+"Netflix, Inc.",Netherlands,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.18915212,N/A
+"Netflix, Inc.",Netherlands,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.48455715,N/A
+"Netflix, Inc.",Netherlands,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.43094626,N/A
+"Netflix, Inc.",Netherlands,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.60604227,N/A
+"Netflix, Inc.",New Zealand,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7776675,N/A
+"Netflix, Inc.",New Zealand,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0376673,N/A
+"Netflix, Inc.",New Zealand,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6812917,N/A
+"Netflix, Inc.",New Zealand,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0800831,N/A
+"Netflix, Inc.",New Zealand,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7854183,N/A
+"Netflix, Inc.",New Zealand,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7038041,N/A
+"Netflix, Inc.",New Zealand,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.73877066,N/A
+"Netflix, Inc.",New Zealand,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7983394,N/A
+"Netflix, Inc.",New Zealand,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1215658,N/A
+"Netflix, Inc.",New Zealand,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0428253,N/A
+"Netflix, Inc.",New Zealand,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0534078,N/A
+"Netflix, Inc.",New Zealand,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0582757,N/A
+"Netflix, Inc.",New Zealand,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7779042,N/A
+"Netflix, Inc.",New Zealand,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8818216,N/A
+"Netflix, Inc.",New Zealand,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.40749797,N/A
+"Netflix, Inc.",New Zealand,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4148774,N/A
+"Netflix, Inc.",New Zealand,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.081671,N/A
+"Netflix, Inc.",New Zealand,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.69754463,N/A
+"Netflix, Inc.",New Zealand,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0609329,N/A
+"Netflix, Inc.",New Zealand,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4383832,N/A
+"Netflix, Inc.",New Zealand,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",New Zealand,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2304664,N/A
+"Netflix, Inc.",New Zealand,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.792693,N/A
+"Netflix, Inc.",New Zealand,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.093072,N/A
+"Netflix, Inc.",New Zealand,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0265887,N/A
+"Netflix, Inc.",New Zealand,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6920474,N/A
+"Netflix, Inc.",New Zealand,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.69084626,N/A
+"Netflix, Inc.",New Zealand,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1825325,N/A
+"Netflix, Inc.",New Zealand,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5809027,N/A
+"Netflix, Inc.",New Zealand,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4107357,N/A
+"Netflix, Inc.",Nigeria,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0165355,N/A
+"Netflix, Inc.",Nigeria,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5092687,N/A
+"Netflix, Inc.",Nigeria,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77633727,N/A
+"Netflix, Inc.",Nigeria,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.027802,N/A
+"Netflix, Inc.",Nigeria,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51213765,N/A
+"Netflix, Inc.",Nigeria,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.022704,N/A
+"Netflix, Inc.",Nigeria,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51363707,N/A
+"Netflix, Inc.",Nigeria,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0572501,N/A
+"Netflix, Inc.",Nigeria,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51626223,N/A
+"Netflix, Inc.",Nigeria,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.503094,N/A
+"Netflix, Inc.",Nigeria,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0532968,N/A
+"Netflix, Inc.",Nigeria,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3973311,N/A
+"Netflix, Inc.",Nigeria,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5231494,N/A
+"Netflix, Inc.",Nigeria,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9462976,N/A
+"Netflix, Inc.",Nigeria,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.989903,N/A
+"Netflix, Inc.",Nigeria,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Nigeria,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7559722,N/A
+"Netflix, Inc.",Norway,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7760153,N/A
+"Netflix, Inc.",Norway,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7616179,N/A
+"Netflix, Inc.",Norway,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9751341,N/A
+"Netflix, Inc.",Norway,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6551363,N/A
+"Netflix, Inc.",Norway,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.968633,N/A
+"Netflix, Inc.",Norway,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6507097,N/A
+"Netflix, Inc.",Norway,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0520409,N/A
+"Netflix, Inc.",Norway,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.39286557,N/A
+"Netflix, Inc.",Norway,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.4192991,N/A
+"Netflix, Inc.",Norway,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6145177,N/A
+"Netflix, Inc.",Norway,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2619317,N/A
+"Netflix, Inc.",Norway,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2874322,N/A
+"Netflix, Inc.",Norway,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3302264,N/A
+"Netflix, Inc.",Norway,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4116817,N/A
+"Netflix, Inc.",Norway,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1814744,N/A
+"Netflix, Inc.",Norway,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.13196,N/A
+"Netflix, Inc.",Norway,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9753877,N/A
+"Netflix, Inc.",Norway,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3022105,N/A
+"Netflix, Inc.",Norway,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.98344535,N/A
+"Netflix, Inc.",Norway,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6650705,N/A
+"Netflix, Inc.",Norway,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.793979,N/A
+"Netflix, Inc.",Norway,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5568442,N/A
+"Netflix, Inc.",Norway,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7512522,N/A
+"Netflix, Inc.",Norway,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3200014,N/A
+"Netflix, Inc.",Norway,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9296948,N/A
+"Netflix, Inc.",Norway,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5966789,N/A
+"Netflix, Inc.",Norway,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3248863,N/A
+"Netflix, Inc.",Norway,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7348461,N/A
+"Netflix, Inc.",Norway,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7630093,N/A
+"Netflix, Inc.",Norway,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3882141,N/A
+"Netflix, Inc.",Peru,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0673118,N/A
+"Netflix, Inc.",Peru,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9850131,N/A
+"Netflix, Inc.",Peru,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1238481,N/A
+"Netflix, Inc.",Peru,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4296948,N/A
+"Netflix, Inc.",Peru,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0295905,N/A
+"Netflix, Inc.",Peru,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2501042,N/A
+"Netflix, Inc.",Peru,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.491456,N/A
+"Netflix, Inc.",Peru,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0652653,N/A
+"Netflix, Inc.",Peru,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5987525,N/A
+"Netflix, Inc.",Peru,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8356296,N/A
+"Netflix, Inc.",Peru,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8375034,N/A
+"Netflix, Inc.",Peru,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9216873,N/A
+"Netflix, Inc.",Peru,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9302326,N/A
+"Netflix, Inc.",Peru,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3840683,N/A
+"Netflix, Inc.",Peru,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5226583,N/A
+"Netflix, Inc.",Peru,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1098368,N/A
+"Netflix, Inc.",Peru,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7277652,N/A
+"Netflix, Inc.",Peru,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6275214,N/A
+"Netflix, Inc.",Peru,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.027042,N/A
+"Netflix, Inc.",Peru,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5619305,N/A
+"Netflix, Inc.",Peru,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.86318517,N/A
+"Netflix, Inc.",Peru,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.36070266,N/A
+"Netflix, Inc.",Peru,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.26762,N/A
+"Netflix, Inc.",Peru,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7783729,N/A
+"Netflix, Inc.",Peru,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5899589,N/A
+"Netflix, Inc.",Peru,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2622164,N/A
+"Netflix, Inc.",Peru,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3747846,N/A
+"Netflix, Inc.",Peru,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7945182,N/A
+"Netflix, Inc.",Peru,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8803079,N/A
+"Netflix, Inc.",Peru,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6651126,N/A
+"Netflix, Inc.",Philippines,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5171112,N/A
+"Netflix, Inc.",Philippines,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6356404,N/A
+"Netflix, Inc.",Philippines,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1705196,N/A
+"Netflix, Inc.",Philippines,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7596155,N/A
+"Netflix, Inc.",Philippines,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6795556,N/A
+"Netflix, Inc.",Philippines,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.68702555,N/A
+"Netflix, Inc.",Philippines,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6287896,N/A
+"Netflix, Inc.",Philippines,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8407335,N/A
+"Netflix, Inc.",Philippines,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6377551,N/A
+"Netflix, Inc.",Philippines,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.84982705,N/A
+"Netflix, Inc.",Philippines,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5125139,N/A
+"Netflix, Inc.",Philippines,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.773701,N/A
+"Netflix, Inc.",Philippines,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0587145,N/A
+"Netflix, Inc.",Philippines,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8944944,N/A
+"Netflix, Inc.",Philippines,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1219441,N/A
+"Netflix, Inc.",Philippines,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.548039,N/A
+"Netflix, Inc.",Philippines,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.79185617,N/A
+"Netflix, Inc.",Philippines,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7031669,N/A
+"Netflix, Inc.",Philippines,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2350689,N/A
+"Netflix, Inc.",Philippines,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1597409,N/A
+"Netflix, Inc.",Philippines,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9267669,N/A
+"Netflix, Inc.",Philippines,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6298325,N/A
+"Netflix, Inc.",Philippines,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8804367,N/A
+"Netflix, Inc.",Philippines,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8750744,N/A
+"Netflix, Inc.",Philippines,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8422755,N/A
+"Netflix, Inc.",Philippines,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.83844656,N/A
+"Netflix, Inc.",Philippines,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6951847,N/A
+"Netflix, Inc.",Philippines,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3029209,N/A
+"Netflix, Inc.",Philippines,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1429987,N/A
+"Netflix, Inc.",Philippines,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9270236,N/A
+"Netflix, Inc.",Poland,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5968226,N/A
+"Netflix, Inc.",Poland,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7240328,N/A
+"Netflix, Inc.",Poland,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6633761,N/A
+"Netflix, Inc.",Poland,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5626755,N/A
+"Netflix, Inc.",Poland,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4024693,N/A
+"Netflix, Inc.",Poland,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.976296,N/A
+"Netflix, Inc.",Poland,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3406799,N/A
+"Netflix, Inc.",Poland,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5650178,N/A
+"Netflix, Inc.",Poland,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9080976,N/A
+"Netflix, Inc.",Poland,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7810811,N/A
+"Netflix, Inc.",Poland,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3180344,N/A
+"Netflix, Inc.",Poland,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2141396,N/A
+"Netflix, Inc.",Poland,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2962668,N/A
+"Netflix, Inc.",Poland,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5470257,N/A
+"Netflix, Inc.",Poland,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7215853,N/A
+"Netflix, Inc.",Poland,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7899117,N/A
+"Netflix, Inc.",Poland,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6438047,N/A
+"Netflix, Inc.",Poland,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1683956,N/A
+"Netflix, Inc.",Poland,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9475293,N/A
+"Netflix, Inc.",Poland,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4204041,N/A
+"Netflix, Inc.",Poland,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2005539,N/A
+"Netflix, Inc.",Poland,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.644583,N/A
+"Netflix, Inc.",Poland,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0844984,N/A
+"Netflix, Inc.",Poland,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2375089,N/A
+"Netflix, Inc.",Poland,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.661114,N/A
+"Netflix, Inc.",Poland,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4047805,N/A
+"Netflix, Inc.",Poland,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5026511,N/A
+"Netflix, Inc.",Poland,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.92062014,N/A
+"Netflix, Inc.",Poland,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7808707,N/A
+"Netflix, Inc.",Poland,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.20207,N/A
+"Netflix, Inc.",Portugal,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2526844,N/A
+"Netflix, Inc.",Portugal,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5243127,N/A
+"Netflix, Inc.",Portugal,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5278839,N/A
+"Netflix, Inc.",Portugal,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3666992,N/A
+"Netflix, Inc.",Portugal,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1238481,N/A
+"Netflix, Inc.",Portugal,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.99725044,N/A
+"Netflix, Inc.",Portugal,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0467446,N/A
+"Netflix, Inc.",Portugal,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2288463,N/A
+"Netflix, Inc.",Portugal,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8348624,N/A
+"Netflix, Inc.",Portugal,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5149012,N/A
+"Netflix, Inc.",Portugal,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2455368,N/A
+"Netflix, Inc.",Portugal,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1088933,N/A
+"Netflix, Inc.",Portugal,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.979199,N/A
+"Netflix, Inc.",Portugal,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9035625,N/A
+"Netflix, Inc.",Portugal,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1883944,N/A
+"Netflix, Inc.",Portugal,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6493401,N/A
+"Netflix, Inc.",Portugal,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.96922034,N/A
+"Netflix, Inc.",Portugal,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8304728,N/A
+"Netflix, Inc.",Portugal,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.54174113,N/A
+"Netflix, Inc.",Portugal,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1308379,N/A
+"Netflix, Inc.",Portugal,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.590807,N/A
+"Netflix, Inc.",Portugal,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1846336,N/A
+"Netflix, Inc.",Portugal,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6054715,N/A
+"Netflix, Inc.",Portugal,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.68714356,N/A
+"Netflix, Inc.",Portugal,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0599958,N/A
+"Netflix, Inc.",Portugal,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4421879,N/A
+"Netflix, Inc.",Portugal,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7979148,N/A
+"Netflix, Inc.",Portugal,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.966397,N/A
+"Netflix, Inc.",Portugal,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2591089,N/A
+"Netflix, Inc.",Portugal,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0432813,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7229497,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8083183,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2306178,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.7974684,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6992353,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6725205,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2413108,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2490633,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5730093,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3941169,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7793595,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.4447124,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5396826,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2004802,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6123302,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Puerto Rico,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.2118194,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.630035,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2711787,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7969582,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9918154,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8175539,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5753284,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8217235,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3369946,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,4.487542,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3677692,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0347385,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.416851,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6236389,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9142419,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5699785,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,4.3406205,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4912019,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.4768982,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.867137,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.8852258,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7396188,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0925853,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.6540687,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1139889,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.922926,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.2591574,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.2433133,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5784489,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.3346303,N/A
+"Netflix, Inc.",Republic of Korea,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,4.0009456,N/A
+"Netflix, Inc.",Russian Federation,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.053471647,N/A
+"Netflix, Inc.",Russian Federation,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.10186342,N/A
+"Netflix, Inc.",Russian Federation,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Russian Federation,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.044629708,N/A
+"Netflix, Inc.",Russian Federation,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.07468048,N/A
+"Netflix, Inc.",Russian Federation,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Russian Federation,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.030941216,N/A
+"Netflix, Inc.",Russian Federation,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Russian Federation,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.03346457,N/A
+"Netflix, Inc.",Russian Federation,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.02930124,N/A
+"Netflix, Inc.",Russian Federation,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.058602307,N/A
+"Netflix, Inc.",Russian Federation,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.029435704,N/A
+"Netflix, Inc.",Russian Federation,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.059102878,N/A
+"Netflix, Inc.",Russian Federation,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Russian Federation,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.05260841,N/A
+"Netflix, Inc.",Russian Federation,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06515029,N/A
+"Netflix, Inc.",Russian Federation,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.014476955,N/A
+"Netflix, Inc.",Russian Federation,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.02903942,N/A
+"Netflix, Inc.",Russian Federation,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.029189922,N/A
+"Netflix, Inc.",Russian Federation,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.04414024,N/A
+"Netflix, Inc.",Russian Federation,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06102324,N/A
+"Netflix, Inc.",Russian Federation,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.017503234,N/A
+"Netflix, Inc.",Russian Federation,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.016209558,N/A
+"Netflix, Inc.",Russian Federation,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.028681278,N/A
+"Netflix, Inc.",Russian Federation,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Russian Federation,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.013573696,N/A
+"Netflix, Inc.",Russian Federation,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.027269095,N/A
+"Netflix, Inc.",Russian Federation,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.056111056,N/A
+"Netflix, Inc.",Russian Federation,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.031714115,N/A
+"Netflix, Inc.",Russian Federation,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.03013169,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.2170186,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5880393,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77599084,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.352657,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77672917,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.82910144,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2642545,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.82910144,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.37903914,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.74987817,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.18765599,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9456265,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61174554,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7338193,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5966789,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.91524804,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7260451,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7316761,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6984336,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8157106,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0255728,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6786102,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6845096,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8265581,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51526916,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1434546,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8022239,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1807873,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0718688,N/A
+"Netflix, Inc.",Saudi Arabia,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1394527,N/A
+"Netflix, Inc.",Singapore,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9603039,N/A
+"Netflix, Inc.",Singapore,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.4203699,N/A
+"Netflix, Inc.",Singapore,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3057672,N/A
+"Netflix, Inc.",Singapore,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8835093,N/A
+"Netflix, Inc.",Singapore,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3309672,N/A
+"Netflix, Inc.",Singapore,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.23304,N/A
+"Netflix, Inc.",Singapore,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8356202,N/A
+"Netflix, Inc.",Singapore,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Singapore,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.3967392,N/A
+"Netflix, Inc.",Singapore,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8853475,N/A
+"Netflix, Inc.",Singapore,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.340243,N/A
+"Netflix, Inc.",Singapore,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.89377487,N/A
+"Netflix, Inc.",Singapore,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.44976163,N/A
+"Netflix, Inc.",Singapore,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3844663,N/A
+"Netflix, Inc.",Singapore,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9978024,N/A
+"Netflix, Inc.",Singapore,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.98173964,N/A
+"Netflix, Inc.",Singapore,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3293748,N/A
+"Netflix, Inc.",Singapore,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3105587,N/A
+"Netflix, Inc.",Singapore,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.44115052,N/A
+"Netflix, Inc.",Singapore,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.44495863,N/A
+"Netflix, Inc.",Singapore,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8421295,N/A
+"Netflix, Inc.",Singapore,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5009756,N/A
+"Netflix, Inc.",Singapore,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.9183035,N/A
+"Netflix, Inc.",Singapore,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.340902,N/A
+"Netflix, Inc.",Singapore,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.87233394,N/A
+"Netflix, Inc.",Singapore,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2633175,N/A
+"Netflix, Inc.",Singapore,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2739935,N/A
+"Netflix, Inc.",Singapore,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8729431,N/A
+"Netflix, Inc.",Singapore,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.423893,N/A
+"Netflix, Inc.",Singapore,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.263251,N/A
+"Netflix, Inc.",South Africa,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9469473,N/A
+"Netflix, Inc.",South Africa,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0966315,N/A
+"Netflix, Inc.",South Africa,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5512534,N/A
+"Netflix, Inc.",South Africa,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7750015,N/A
+"Netflix, Inc.",South Africa,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6233248,N/A
+"Netflix, Inc.",South Africa,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.47476617,N/A
+"Netflix, Inc.",South Africa,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.67165935,N/A
+"Netflix, Inc.",South Africa,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9489242,N/A
+"Netflix, Inc.",South Africa,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6860157,N/A
+"Netflix, Inc.",South Africa,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1190152,N/A
+"Netflix, Inc.",South Africa,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4793481,N/A
+"Netflix, Inc.",South Africa,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.444646,N/A
+"Netflix, Inc.",South Africa,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8072198,N/A
+"Netflix, Inc.",South Africa,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.193053,N/A
+"Netflix, Inc.",South Africa,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9707324,N/A
+"Netflix, Inc.",South Africa,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.732404,N/A
+"Netflix, Inc.",South Africa,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7595495,N/A
+"Netflix, Inc.",South Africa,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4476901,N/A
+"Netflix, Inc.",South Africa,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8180093,N/A
+"Netflix, Inc.",South Africa,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9999833,N/A
+"Netflix, Inc.",South Africa,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5994029,N/A
+"Netflix, Inc.",South Africa,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3059604,N/A
+"Netflix, Inc.",South Africa,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3878095,N/A
+"Netflix, Inc.",South Africa,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.93881285,N/A
+"Netflix, Inc.",South Africa,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77560264,N/A
+"Netflix, Inc.",South Africa,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4838777,N/A
+"Netflix, Inc.",South Africa,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3586136,N/A
+"Netflix, Inc.",South Africa,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2859255,N/A
+"Netflix, Inc.",South Africa,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.386674,N/A
+"Netflix, Inc.",South Africa,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8873712,N/A
+"Netflix, Inc.",Spain,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5763483,N/A
+"Netflix, Inc.",Spain,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4712064,N/A
+"Netflix, Inc.",Spain,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6761883,N/A
+"Netflix, Inc.",Spain,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2820184,N/A
+"Netflix, Inc.",Spain,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1435345,N/A
+"Netflix, Inc.",Spain,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8768001,N/A
+"Netflix, Inc.",Spain,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2694511,N/A
+"Netflix, Inc.",Spain,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7217686,N/A
+"Netflix, Inc.",Spain,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2305853,N/A
+"Netflix, Inc.",Spain,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7243147,N/A
+"Netflix, Inc.",Spain,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5361454,N/A
+"Netflix, Inc.",Spain,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8195191,N/A
+"Netflix, Inc.",Spain,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0651329,N/A
+"Netflix, Inc.",Spain,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0868894,N/A
+"Netflix, Inc.",Spain,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.92706954,N/A
+"Netflix, Inc.",Spain,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4658747,N/A
+"Netflix, Inc.",Spain,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.124289,N/A
+"Netflix, Inc.",Spain,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2637515,N/A
+"Netflix, Inc.",Spain,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0716027,N/A
+"Netflix, Inc.",Spain,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2818725,N/A
+"Netflix, Inc.",Spain,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3133062,N/A
+"Netflix, Inc.",Spain,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4571728,N/A
+"Netflix, Inc.",Spain,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5299282,N/A
+"Netflix, Inc.",Spain,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8302236,N/A
+"Netflix, Inc.",Spain,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0382211,N/A
+"Netflix, Inc.",Spain,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1375409,N/A
+"Netflix, Inc.",Spain,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0717505,N/A
+"Netflix, Inc.",Spain,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0713545,N/A
+"Netflix, Inc.",Spain,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0793935,N/A
+"Netflix, Inc.",Spain,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0347588,N/A
+"Netflix, Inc.",Sweden,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1036024,N/A
+"Netflix, Inc.",Sweden,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7352297,N/A
+"Netflix, Inc.",Sweden,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.217304,N/A
+"Netflix, Inc.",Sweden,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8383479,N/A
+"Netflix, Inc.",Sweden,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8487706,N/A
+"Netflix, Inc.",Sweden,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8599173,N/A
+"Netflix, Inc.",Sweden,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1289959,N/A
+"Netflix, Inc.",Sweden,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.7802877,N/A
+"Netflix, Inc.",Sweden,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7824446,N/A
+"Netflix, Inc.",Sweden,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0561095,N/A
+"Netflix, Inc.",Sweden,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5029683,N/A
+"Netflix, Inc.",Sweden,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5254599,N/A
+"Netflix, Inc.",Sweden,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.1739805,N/A
+"Netflix, Inc.",Sweden,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.80562,N/A
+"Netflix, Inc.",Sweden,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.040673,N/A
+"Netflix, Inc.",Sweden,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4347203,N/A
+"Netflix, Inc.",Sweden,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.5641413,N/A
+"Netflix, Inc.",Sweden,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2269939,N/A
+"Netflix, Inc.",Sweden,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2289352,N/A
+"Netflix, Inc.",Sweden,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.016348,N/A
+"Netflix, Inc.",Sweden,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2794268,N/A
+"Netflix, Inc.",Sweden,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5383301,N/A
+"Netflix, Inc.",Sweden,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.745173,N/A
+"Netflix, Inc.",Sweden,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.9658843,N/A
+"Netflix, Inc.",Sweden,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0522442,N/A
+"Netflix, Inc.",Sweden,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8779342,N/A
+"Netflix, Inc.",Sweden,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.057069,N/A
+"Netflix, Inc.",Sweden,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0969552,N/A
+"Netflix, Inc.",Sweden,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,3.198707,N/A
+"Netflix, Inc.",Sweden,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5217226,N/A
+"Netflix, Inc.",Switzerland,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5843915,N/A
+"Netflix, Inc.",Switzerland,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.835579,N/A
+"Netflix, Inc.",Switzerland,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7632131,N/A
+"Netflix, Inc.",Switzerland,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.39578098,N/A
+"Netflix, Inc.",Switzerland,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.80588293,N/A
+"Netflix, Inc.",Switzerland,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.60491186,N/A
+"Netflix, Inc.",Switzerland,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6404372,N/A
+"Netflix, Inc.",Switzerland,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2518464,N/A
+"Netflix, Inc.",Switzerland,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1248847,N/A
+"Netflix, Inc.",Switzerland,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1832219,N/A
+"Netflix, Inc.",Switzerland,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6067483,N/A
+"Netflix, Inc.",Switzerland,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.20046508,N/A
+"Netflix, Inc.",Switzerland,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.40098643,N/A
+"Netflix, Inc.",Switzerland,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4230924,N/A
+"Netflix, Inc.",Switzerland,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.72974944,N/A
+"Netflix, Inc.",Switzerland,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3242986,N/A
+"Netflix, Inc.",Switzerland,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1748581,N/A
+"Netflix, Inc.",Switzerland,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.96126115,N/A
+"Netflix, Inc.",Switzerland,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7780285,N/A
+"Netflix, Inc.",Switzerland,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.99906087,N/A
+"Netflix, Inc.",Switzerland,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8290499,N/A
+"Netflix, Inc.",Switzerland,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.70638096,N/A
+"Netflix, Inc.",Switzerland,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.63304496,N/A
+"Netflix, Inc.",Switzerland,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.37747243,N/A
+"Netflix, Inc.",Switzerland,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5630948,N/A
+"Netflix, Inc.",Switzerland,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7517525,N/A
+"Netflix, Inc.",Switzerland,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77332044,N/A
+"Netflix, Inc.",Switzerland,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61948913,N/A
+"Netflix, Inc.",Switzerland,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.687364,N/A
+"Netflix, Inc.",Switzerland,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61503136,N/A
+"Netflix, Inc.",Taiwan,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7127874,N/A
+"Netflix, Inc.",Taiwan,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8941878,N/A
+"Netflix, Inc.",Taiwan,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.84654653,N/A
+"Netflix, Inc.",Taiwan,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.42712408,N/A
+"Netflix, Inc.",Taiwan,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7671392,N/A
+"Netflix, Inc.",Taiwan,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6866245,N/A
+"Netflix, Inc.",Taiwan,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.43802398,N/A
+"Netflix, Inc.",Taiwan,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.61592156,N/A
+"Netflix, Inc.",Taiwan,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9801135,N/A
+"Netflix, Inc.",Taiwan,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3400493,N/A
+"Netflix, Inc.",Taiwan,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51486677,N/A
+"Netflix, Inc.",Taiwan,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77219415,N/A
+"Netflix, Inc.",Taiwan,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.51990366,N/A
+"Netflix, Inc.",Taiwan,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.17586283,N/A
+"Netflix, Inc.",Taiwan,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1263452,N/A
+"Netflix, Inc.",Taiwan,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.59470713,N/A
+"Netflix, Inc.",Taiwan,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3431562,N/A
+"Netflix, Inc.",Taiwan,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.17288177,N/A
+"Netflix, Inc.",Taiwan,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.34632334,N/A
+"Netflix, Inc.",Taiwan,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.43833503,N/A
+"Netflix, Inc.",Taiwan,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.09060843,N/A
+"Netflix, Inc.",Taiwan,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.45619917,N/A
+"Netflix, Inc.",Taiwan,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0720412,N/A
+"Netflix, Inc.",Taiwan,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.70714927,N/A
+"Netflix, Inc.",Taiwan,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.84580904,N/A
+"Netflix, Inc.",Taiwan,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3214168,N/A
+"Netflix, Inc.",Taiwan,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4910506,N/A
+"Netflix, Inc.",Taiwan,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.33202735,N/A
+"Netflix, Inc.",Taiwan,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0973909,N/A
+"Netflix, Inc.",Taiwan,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0357815,N/A
+"Netflix, Inc.",Thailand,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.91015,N/A
+"Netflix, Inc.",Thailand,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5536394,N/A
+"Netflix, Inc.",Thailand,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.59109515,N/A
+"Netflix, Inc.",Thailand,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.89014167,N/A
+"Netflix, Inc.",Thailand,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.59916115,N/A
+"Netflix, Inc.",Thailand,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3598864,N/A
+"Netflix, Inc.",Thailand,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0955131,N/A
+"Netflix, Inc.",Thailand,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1347733,N/A
+"Netflix, Inc.",Thailand,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1718521,N/A
+"Netflix, Inc.",Thailand,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.042784,N/A
+"Netflix, Inc.",Thailand,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.5954419,N/A
+"Netflix, Inc.",Thailand,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.046072,N/A
+"Netflix, Inc.",Thailand,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.602056,N/A
+"Netflix, Inc.",Thailand,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7764578,N/A
+"Netflix, Inc.",Thailand,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2897757,N/A
+"Netflix, Inc.",Thailand,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.77432346,N/A
+"Netflix, Inc.",Thailand,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1997061,N/A
+"Netflix, Inc.",Thailand,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4487122,N/A
+"Netflix, Inc.",Thailand,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.44816923,N/A
+"Netflix, Inc.",Thailand,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Thailand,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2539774,N/A
+"Netflix, Inc.",Thailand,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5021782,N/A
+"Netflix, Inc.",Thailand,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9906679,N/A
+"Netflix, Inc.",Thailand,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2177857,N/A
+"Netflix, Inc.",Thailand,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0302451,N/A
+"Netflix, Inc.",Thailand,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7856077,N/A
+"Netflix, Inc.",Thailand,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.13342762,N/A
+"Netflix, Inc.",Thailand,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8245156,N/A
+"Netflix, Inc.",Thailand,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1550202,N/A
+"Netflix, Inc.",Thailand,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5824454,N/A
+"Netflix, Inc.",Turkey,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.63429236,N/A
+"Netflix, Inc.",Turkey,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6748782,N/A
+"Netflix, Inc.",Turkey,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9809692,N/A
+"Netflix, Inc.",Turkey,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.32838565,N/A
+"Netflix, Inc.",Turkey,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4381929,N/A
+"Netflix, Inc.",Turkey,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6587543,N/A
+"Netflix, Inc.",Turkey,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8965695,N/A
+"Netflix, Inc.",Turkey,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.260446,N/A
+"Netflix, Inc.",Turkey,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.68822175,N/A
+"Netflix, Inc.",Turkey,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.3220681,N/A
+"Netflix, Inc.",Turkey,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.400696,N/A
+"Netflix, Inc.",Turkey,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7536363,N/A
+"Netflix, Inc.",Turkey,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9656238,N/A
+"Netflix, Inc.",Turkey,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6377155,N/A
+"Netflix, Inc.",Turkey,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9828855,N/A
+"Netflix, Inc.",Turkey,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2041261,N/A
+"Netflix, Inc.",Turkey,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1946523,N/A
+"Netflix, Inc.",Turkey,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.8597898,N/A
+"Netflix, Inc.",Turkey,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.6509781,N/A
+"Netflix, Inc.",Turkey,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5182899,N/A
+"Netflix, Inc.",Turkey,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.44121864,N/A
+"Netflix, Inc.",Turkey,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2256554,N/A
+"Netflix, Inc.",Turkey,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.91349226,N/A
+"Netflix, Inc.",Turkey,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2813257,N/A
+"Netflix, Inc.",Turkey,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.069446,N/A
+"Netflix, Inc.",Turkey,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.01611,N/A
+"Netflix, Inc.",Turkey,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2290471,N/A
+"Netflix, Inc.",Turkey,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.4780206,N/A
+"Netflix, Inc.",Turkey,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.241144,N/A
+"Netflix, Inc.",Turkey,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0883999,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3703916,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.5952227,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,2.0643587,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7732041,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3210039,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1435505,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.7922021,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7133862,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3732821,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.59376,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1591842,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4510766,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9925304,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9848206,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.1122752,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.7632378,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.9917499,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2464826,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0936612,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3239522,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4152465,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.95887494,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.8249594,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.4170773,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.0959038,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2713557,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.693282,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.2357727,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.3873041,N/A
+"Netflix, Inc.",United Kingdom of Great Britain and Northern Ireland,2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,1.6446838,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-01,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-02,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.24169184,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-03,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06320513,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-04,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-05,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06222001,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-06,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06229598,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-07,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.061165072,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-08,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.07256947,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-09,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.08444519,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-10,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.12728071,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-11,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.061774153,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-12,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.061916437,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-13,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-14,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-15,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-16,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-17,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-18,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-19,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.06373446,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-20,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.064099684,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-21,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.12819773,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-22,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.076439746,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-23,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.33354735,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-24,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.13081215,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-25,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.11588224,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-26,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-27,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.058052458,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-28,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.05797908,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-29,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.13488723,N/A
+"Netflix, Inc.",Venezuela (Bolivarian Republic of),2018-09-30,Netflix,subscriptions,N/A,173,Cancellation Index,N/A,N/A,N/A,0.0,N/A
