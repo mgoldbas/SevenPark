@@ -13,3 +13,5 @@ DEBUG level logging
 
 * The 'use_cache' parameter in ChallengeTwo can be used for testing to hold 
 the API data locally as a csv file, and be reloaded as required
+
+* Due to unicode errors, code must run in Python 3
