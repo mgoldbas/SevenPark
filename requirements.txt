@@ -4,7 +4,7 @@ df2gspread==1.0.3
 et-xmlfile==1.0.1
 google-api-python-client==1.6.7
 gspread==3.0.1
-httplib2==0.12.0
+httplib2==0.18.0
 idna==2.7
 jdcal==1.4
 numpy==1.15.4
